@@ -64,4 +64,14 @@ Using data spanning *30 years*, across *214 countries*, and covering *57,575 pat
 🔹 *Interactive Web Dashboard* – Convert the Excel dashboard into a *Power BI or Python-based web app* for broader accessibility.  
 
 ---
+## 📌 How to Use  
+### *⿡ Download the Dashboard*  
+Click [here](https://1drv.ms/x/c/0fe259e2620a2bd4/EewlegJwgHdFj4_ZYRSDgFIBe5oN-vX6KIcW3BWsYpjYMw?e=HaFXvL) to download the Excel file and explore the interactive dashboard.  
 
+### *⿢ Open in Microsoft Excel*  
+- Ensure you have *Excel 2016 or later* (for best functionality).  
+- Open the file and navigate through the *interactive filters, charts, and insights*.  
+
+### *⿣ Explore the Insights*  
+- Use *slicers* to filter data by *country, disorder type, and generation*.  
+- Analyze *top 10 countries, **generational impact, and **trend variations*. 
