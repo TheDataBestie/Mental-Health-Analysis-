@@ -3,6 +3,8 @@
 ## 📝 Overview  
 The *Mental Health Analysis Dashboard* is an *Excel-based* data visualization project designed to analyze global mental health trends. It provides insights into the prevalence of *anxiety, depression, schizophrenia, and bipolar disorders* across different generations.  
 
+This project was inspired by a conversation with my old-generation aunt, who dismissed mental health struggles as a "Gen Z problem." Like many in older generations, she believed that resilience was stronger in the past and that mental health concerns are exaggerated today. This perspective made me wonder—does the data support this belief? 
+
 Using data spanning *30 years*, across *214 countries*, and covering *57,575 patients*, this project aims to *increase awareness, aid research, and support policymaking* for mental health.  
 
 ---
