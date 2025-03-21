@@ -74,4 +74,7 @@ Click [here](https://1drv.ms/x/c/0fe259e2620a2bd4/EewlegJwgHdFj4_ZYRSDgFIBBnNY06
 
 ### *⿣ Explore the Insights*  
 - Use *slicers* to filter data by *country, disorder type, and generation*.  
-- Analyze *top 10 countries*, *generational impact*, and *trend variations*. 
+- Analyze *top 10 countries*, *generational impact*, and *trend variations*.
+
+---
+*Thanks for stopping by, bestie! 💖 Let’s revolutionize healthcare with data! 🚀*
